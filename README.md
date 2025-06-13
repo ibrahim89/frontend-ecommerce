@@ -4,7 +4,6 @@ A modern, responsive, and clean React frontend for an Ecommerce platform built w
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -14,13 +13,7 @@ A modern, responsive, and clean React frontend for an Ecommerce platform built w
 - [Contributing](#contributing)
 - [License](#license)
 
----
 
-## Demo
-
-
-
----
 
 ## Features
 
