@@ -1,0 +1,61 @@
+# Frontend Ecommerce
+
+A modern, responsive, and clean React frontend for an Ecommerce platform built with Vite and Redux Toolkit.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Folder Structure](#folder-structure)
+- [Environment Variables](#environment-variables)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Demo
+
+Add your live demo link here if hosted (e.g., Vercel, Netlify).
+
+---
+
+## Features
+
+- Product listing with filtering and search
+- Product details page
+- Shopping cart functionality
+- User authentication (login/signup)
+- Responsive design for desktop and mobile
+- State management with Redux Toolkit
+- Client-side routing with React Router v6
+- Clean and modern UI built with React and CSS (or your UI framework)
+
+---
+
+## Tech Stack
+
+- React 18
+- Vite (fast build tool)
+- Redux Toolkit (state management)
+- React Router DOM (routing)
+- Axios (API requests)
+- CSS / Tailwind CSS (or your styling choice)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js >= 16.x
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/ibrahim89/frontend-ecommerce.git
+cd frontend
+npm install
