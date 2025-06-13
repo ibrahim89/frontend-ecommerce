@@ -65,6 +65,8 @@ npm install
 
 ## Folder Structure
 
+```
+
 frontend/
 ├── public/            # Static assets like images, favicon
 ├── src/
@@ -76,6 +78,8 @@ frontend/
 │   ├── App.jsx        # Root component
 │   └── main.jsx       # App entry point
 └── package.json       # Project metadata and dependencies
+
+```
 
 
 
