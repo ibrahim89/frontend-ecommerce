@@ -18,7 +18,7 @@ A modern, responsive, and clean React frontend for an Ecommerce platform built w
 
 ## Demo
 
-Add your live demo link here if hosted (e.g., Vercel, Netlify).
+
 
 ---
 
@@ -59,3 +59,25 @@ Add your live demo link here if hosted (e.g., Vercel, Netlify).
 git clone https://github.com/ibrahim89/frontend-ecommerce.git
 cd frontend
 npm install
+```
+
+---
+
+## Folder Structure
+
+frontend/
+├── public/            # Static assets like images, favicon
+├── src/
+│   ├── components/    # Reusable React components (Navbar, ProductCard, etc.)
+│   ├── features/      # Redux slices and state logic
+│   ├── pages/         # Page components (Home, ProductDetails, Cart, etc.)
+│   ├── services/      # API service calls
+│   ├── styles/        # Global CSS or Tailwind config
+│   ├── App.jsx        # Root component
+│   └── main.jsx       # App entry point
+└── package.json       # Project metadata and dependencies
+
+
+
+
+---
